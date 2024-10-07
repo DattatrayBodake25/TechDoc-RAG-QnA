@@ -37,9 +37,6 @@ Usage
 Load the FAISS index by ensuring the document_index.index file is available.
 
 Run the Flask application:
-
-bash
-Copy code
 python app.py
 Open your web browser and go to http://127.0.0.1:5000/.
 
